@@ -3276,12 +3276,14 @@ body {
   color: #f7ed4a !important;
 }
 .cid-rAeCo1S21A {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #0f7699;
+  padding-top: 135px;
+  padding-bottom: 0px;
 }
 .cid-rAeCo1S21A P {
   color: #767676;
+}
+.cid-rAeCo1S21A H1 {
+  color: #149dcc;
 }
 .cid-rAeCKrT1Um {
   padding-top: 60px;
@@ -3291,6 +3293,9 @@ body {
 .cid-rAeCKrT1Um .mbr-section {
   text-align: center;
   color: #fff;
+}
+.cid-rAeCKrT1Um .block-title {
+  color: #0f7699;
 }
 .cid-rAIiU6DyMu {
   padding-top: 30px;
