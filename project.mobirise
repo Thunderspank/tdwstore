@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tdwstore",
-    "currentPage": "move.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 30,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/guitar014-128x171.png",
     "noImageResize": ""
@@ -1777,7 +1777,7 @@
     },
     "index.html": {
       "settings": {
-        "meta_descr": "tHe DYSfUnCTIOal gEARS",
+        "meta_descr": "tHe DYSfUnCTIOnal gEARS",
         "title": "index",
         "order": 4
       },
