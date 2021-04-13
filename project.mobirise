@@ -54,7 +54,8 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/guitar014-128x171.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "imageResize": true
   },
   "pages": {
     "page7.html": {
